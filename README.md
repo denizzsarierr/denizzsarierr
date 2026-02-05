@@ -41,9 +41,7 @@ Here are some of my public projects:
 ---
 
 ## ⚡ Tools & Tech
-Python, SQL
-MySQL, SQLite
-Excel, Matplotlib, Seaborn
+Python, SQL, MySQL, SQLite, Excel, Matplotlib, Seaborn
 
 ---
 
