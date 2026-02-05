@@ -1,19 +1,49 @@
-## Hi there 👋
+## Who am I ?
 
-<!--
-**denizzsarierr/denizzsarierr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Deniz Sarier 👋🏻
+**Software Development student** based in Poland, passionate about **Data Science**.  
+Currently learning how to work with **big data**, explore datasets, and generate meaningful insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+**Languages:** Python, SQL  
+**Data & Visualization:** Excel, Matplotlib, Seaborn  
+**Databases:** MySQL, SQLite  
+**Other Tools:** Git, GitHub  
+
+**What I do:**  
+- Analyze and explore datasets using Python, Excel, and SQL  
+- Create visualizations to uncover insights with Matplotlib and Seaborn  
+- Practice handling and processing large datasets  
+- Continuously learning about data science, data analysis, and machine learning  
+
+---
+
+## 📚 Projects
+Welcome to my portfolio! *(You can add your projects here. Examples below)*  
+- **Sales Data Analysis**: Explored and visualized sales trends using Python and Excel  
+- **Student Performance Dashboard**: Built dashboards to analyze student grades and trends  
+
+---
+
+## 👋🏻 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-sarier-1867902a6/?locale=en_US)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:denizsarier4@gmail.com)
+
+---
+
+## ⚡ Tools & Tech
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F77628?style=for-the-badge&logo=Python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=Python&logoColor=white)  
+
+---
+
 
