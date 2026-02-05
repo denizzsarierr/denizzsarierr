@@ -24,7 +24,7 @@ Currently learning how to work with **big data**, explore datasets, and generate
 ## 📚 Projects
 Here are some of my public projects:  
 
-- **[MLProject-CustomerChurn](https://github.com/denizsarier/MLProject-CustomerChurn)** 
+- **[MLProject-CustomerChurn](https://github.com/denizzsarierr/MLProject-CustomerChurn)** 
 - **[MLProject-Titanic](https://github.com/denizsarier/MLProject-Titanic)**
 - **[TSP_PROJECT](https://github.com/denizsarier/TSP_PROJECT)**
 - **[MLProject-VehiclePrices](https://github.com/denizsarier/MLProject-VehiclePrices)**
