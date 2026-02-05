@@ -22,28 +22,33 @@ Currently learning how to work with **big data**, explore datasets, and generate
 ---
 
 ## 📚 Projects
-Welcome to my portfolio! *(You can add your projects here. Examples below)*  
-- **Sales Data Analysis**: Explored and visualized sales trends using Python and Excel  
-- **Student Performance Dashboard**: Built dashboards to analyze student grades and trends  
+Here are some of my public projects:  
+
+- **[MLProject-CustomerChurn](https://github.com/denizsarier/MLProject-CustomerChurn)** 
+- **[MLProject-Titanic](https://github.com/denizsarier/MLProject-Titanic)**
+- **[TSP_PROJECT](https://github.com/denizsarier/TSP_PROJECT)**
+- **[MLProject-VehiclePrices](https://github.com/denizsarier/MLProject-VehiclePrices)**
+- **[MLProject-HousePricePrediction](https://github.com/denizsarier/MLProject-HousePricePrediction)**
 
 ---
 
 ## 👋🏻 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-sarier-1867902a6/?locale=en_US)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:denizsarier4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:denizsarier4@gmail.com)  
 
 ---
 
 ## ⚡ Tools & Tech
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F77628?style=for-the-badge&logo=Python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=Python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F77628?style=for-the-badge&logo=Python&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=Python&logoColor=white) 
 
 ---
+
 
 
