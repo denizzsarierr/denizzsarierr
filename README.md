@@ -26,9 +26,10 @@ Here are some of my public projects:
 
 - **[MLProject-CustomerChurn](https://github.com/denizzsarierr/MLProject-CustomerChurn)** 
 - **[MLProject-Titanic](https://github.com/denizzsarierr/MLProject-Titanic)**
-- **[TSP_PROJECT](https://github.com/denizzsarierr/TSP_PROJECT)**
+- **[MLProject-Loan-Statis-Prediction](https://github.com/denizzsarierr/MLProject-Loan-Status-Prediction)**
 - **[MLProject-VehiclePrices](https://github.com/denizzsarierr/MLProject-VehiclePrices)**
 - **[MLProject-HousePricePrediction](https://github.com/denizzsarierr/MLProject-HousePricePrediction)**
+- **[TravelerSalesmanProject](https://github.com/denizzsarierr/TSP_PROJECT)**
 - **[Flask-UserFlowApp](https://github.com/denizzsarierr/Flask-UserFlowApp)**
 
 ---
