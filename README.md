@@ -1,17 +1,8 @@
 ## Who am I ?
 
-# Hi, I'm Deniz Sarier 👋🏻
+# Hi, I'm Deniz Sarier 
 **Software Development student** based in Poland, passionate about **Data Science**.  
 Currently learning how to work with **big data**, explore datasets, and generate meaningful insights.
-
----
-
-## 🛠️ Skills & Tools
-
-**Languages:** Python, SQL  
-**Data & Visualization:** Excel, Matplotlib, Seaborn  
-**Databases:** MySQL, SQLite  
-**Other Tools:** Git, GitHub  
 
 **What I do:**  
 - Analyze and explore datasets using Python, Excel, and SQL  
@@ -39,12 +30,7 @@ Here are some of my public projects:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:denizsarier4@gmail.com)  
 
----
 
-## ⚡ Tools & Tech
-Python, SQL, MySQL, SQLite, Excel, Matplotlib, Seaborn
-
----
 
 
 
