@@ -1,7 +1,9 @@
 ## Who am I ?
 
-Software Development student in Poland, focused on Machine Learning and Deep Learning engineering.
-I build machine learning systems from scratch to understand how models work internally and how they can be applied to real computational problems.
+Second-year IT student at WSB Merito University in Wrocław specializing in Machine Learning and
+Deep Learning. Focused on building strong machine learning fundamentals through hands-on implementation of core algorithms. 
+Interested in applying machine learning to develop reliable, scalable, industry-ready solutions, with a growing focus on deep learning frameworks such as
+TensorFlow.
 
 ---
 
