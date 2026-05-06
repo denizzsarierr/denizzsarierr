@@ -22,7 +22,7 @@ I build machine learning systems from scratch to understand how models work inte
 ---
 
 ### Software Development
-- **[School Community Platform (FastAPI)]**  
+- **School Community Platform (FastAPI)**  
   Built a web platform with user authentication and email verification for secure community communication.
 
 ---
