@@ -1,33 +1,43 @@
 ## Who am I ?
 
-# Hi, I'm Deniz Sarier 
-**Software Development student** based in Poland, passionate about **Data Science**.  
-Currently learning how to work with **big data**, explore datasets, and generate meaningful insights.
-
-**What I do:**  
-- Analyze and explore datasets using Python, Excel, and SQL  
-- Create visualizations to uncover insights with Matplotlib and Seaborn  
-- Practice handling and processing large datasets  
-- Continuously learning about data science, data analysis, and machine learning  
+Software Development student in Poland, focused on Machine Learning and Deep Learning engineering.
+I build machine learning systems from scratch to understand how models work internally and how they can be applied to real computational problems.
 
 ---
 
-## 📚 Projects
-Here are some of my public projects:  
+## Projects
+### Machine Learning & Deep Learning
+- **[Customer Churn Prediction](https://github.com/denizzsarierr/logistic-regression-scratch)**  
+  Built a vectorized logistic regression model from scratch for churn prediction to support efficient binary classification and customer retention decision-making.
 
-- **[MLProject-CustomerChurn](https://github.com/denizzsarierr/MLProject-CustomerChurn)** 
-- **[MLProject-Titanic](https://github.com/denizzsarierr/MLProject-Titanic)**
-- **[MLProject-Loan-Statis-Prediction](https://github.com/denizzsarierr/MLProject-Loan-Status-Prediction)**
-- **[MLProject-VehiclePrices](https://github.com/denizzsarierr/MLProject-VehiclePrices)**
-- **[MLProject-HousePricePrediction](https://github.com/denizzsarierr/MLProject-HousePricePrediction)**
-- **[TravelerSalesmanProject](https://github.com/denizzsarierr/TSP_PROJECT)**
-- **[Flask-UserFlowApp](https://github.com/denizzsarierr/Flask-UserFlowApp)**
+- **[MNIST Neural Network from Scratch](https://github.com/denizzsarierr/nn-scratch-mnist)**  
+  Implemented a neural network from scratch using vectorized operations and gradient descent for efficient image classification training.
 
 ---
 
-## 👋🏻 Connect with Me
+### Optimization & Algorithms
+- **[Traveling Salesman Problem Solver](https://github.com/denizzsarierr/TSP_PROJECT)**  
+  Developed an optimization system for route planning using structured search and iterative improvement techniques for logistics-style problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)  
+---
+
+### Software Development
+- **[School Community Platform (FastAPI)]**  
+  Built a web platform with user authentication and email verification for secure community communication.
+
+---
+
+### Additional ML Projects
+- Vehicle Price Prediction  
+- House Price Prediction  
+- Loan Status Prediction  
+- Titanic Survival Prediction  
+
+---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/deniz-sarier-1867902a6/?locale=en)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:denizsarier4@gmail.com)  
 
 
